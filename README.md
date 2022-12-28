@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-* [General info](#general-info)
+* [General Info](#general-info)
 * [Motivation](#motivation)
 * [Technologies](#technologies-used)
 * [Data Sources](#the-data)
