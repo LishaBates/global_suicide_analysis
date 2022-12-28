@@ -94,4 +94,4 @@ Webscrape wikipedia using python and Beautiful soup. Collected over 6 csv's to c
 
 
 ## Link To Dashboard
-- Link Pending 
+- Tableau Public: **[Global Suicide Analysis Tableau](https://public.tableau.com/views/Global_Suicide_Analysis_Capstone/GlobalSuicideAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)**<br>
